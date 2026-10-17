@@ -1,0 +1,14 @@
+# WAP to print number from 1 to 10 using a while loop
+
+num1=1
+while num1<=10:
+    print(num1)
+    num1=num1+1
+
+print("Ques 1 completed")
+# WAP to print number from 1 to 10 in Decending order
+
+num2=10
+while num2>=1:
+    print(num2)
+    num2=num2-1

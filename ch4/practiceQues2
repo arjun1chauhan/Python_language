@@ -1,0 +1,15 @@
+# take 3 food as input and print list and length of list
+f1=input("Enter First Food: ")
+f2=input("Enter Second Food: ")
+f3=input("Enter Third Food: ")
+
+foodlist=[f1,f2,f3]
+
+#OR
+'''foodlist=[]
+foodlist.append(f1)
+foodlist.append(f2)
+foodlist.append(f3)'''
+
+print(foodlist)
+print(len(foodlist))

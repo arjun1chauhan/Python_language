@@ -1,0 +1,6 @@
+#WAP to print Your name 5 times with serial number using while loop
+
+n=1
+while n<=5:
+    print(n,"Arjun Chauhan")
+    n=n+1

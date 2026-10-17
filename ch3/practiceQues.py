@@ -1,0 +1,12 @@
+#take input and print middle 3 character and last 2 character
+
+'''str="Arjun"
+print(str[1:4])
+print(str[3:])'''
+
+str=input("Enter the value: ")
+mid=len(str)//2
+output1=str[mid-1:mid+2]
+print(output1)
+output2=str[-2:]
+print(output2)
